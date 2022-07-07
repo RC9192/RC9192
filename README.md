@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RC9192
+- 👋 Hi, I’m Ritika 
 - 👀 I’m interested in C++ and WebD
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and working on my CP
 - 📫 Reach me at ritikachoudhary9192@gmail.com
 
 <h3 align="left">Connect with me:</h3>
